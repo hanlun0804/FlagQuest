@@ -1,5 +1,7 @@
 # FlagQuest - A multiplayer flag guessing game
 
+This project was made in the subject "Software architecture - TDT4240" at NTNU. This has been a very interesting course, and I have learned a lot of things. I have learned more about android development, how to integrate a more comprehensive backend, how to connect an app to the internet and how to work in a larger developmental team (with all its positive and negative sides). More imporantly for the course, I have learned how to construct an architecture based on quality attributes and implement tactics and patterns to achive the wanted results.
+
 ## Features
 
 - Individual user accounts
